@@ -1,5 +1,5 @@
 def main():
-    print('My first git program')
+    print('My first git program ghp;kl,omfkm')
     print(1)
 
 
